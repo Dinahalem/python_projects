@@ -1,3 +1,7 @@
+#This program calculated the age with month, week, day
+# the user enters age and program calculated how the user live month, week, day 
+
+
 age =input("Please, Enter your age: ").strip()
 unit = input("Please choose Time unit: (months, weeks, days):  ")
 

@@ -1,3 +1,9 @@
+#This program is Voice Recorder
+# the first install two library: pip install sounddevice
+#                                pip install scipy
+# Then limit frequency and duration for record
+# once print Recording, the user starts record for 10 sec
+
 import sounddevice
 from scipy.io.wavfile import write   #save record 
 
